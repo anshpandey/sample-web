@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<title> My page </title>
+</head>
+<body>
+	<main> this is code </main>
+	<footer> think of footer </footer>
+</body>
+</html> 

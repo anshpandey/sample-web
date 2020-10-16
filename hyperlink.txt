@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title>
+	Hyperlink
+</title>
+<body>
+	<section>
+		<header>
+			<nav>
+				<a href="index.html"> index </a>
+				<a href="venue.html"> venue </a>
+			</nav>
+		</header>
+		<section>
+			<a href="index.html"> index </a>
+			<h3> Welcome to the index page </h3>
+		</section>
+		<section>
+			<a href="venue.html"> venue </a>
+			<h4> Welcome to the venue page </h4>
+		</section>
+		<footer>
+			<nav>
+				<a href="index.html"> index </a>
+				<a href="venue.html"> venue </a>
+			</nav>
+		</footer>
+	</section>
+</body>
+</html>
